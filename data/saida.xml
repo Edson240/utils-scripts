@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Root><Cli Autorzc="S" Cd="00038166" ClassCli="AA" CongEcon="000000" IniRelactCli="2010-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ000" Cosif="1234567" DetCli="38166000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038166XYZ000" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000" />
+ </Op>
+<Op CEP="00000000" ClassOp="AA" Contrt="XYZ000" Cosif="1234567" DetCli="38166000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038166XYZ000" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000" />
+ </Op><Op CEP="00000000" ClassOp="AA" Contrt="XYZ000" Cosif="1234567" DetCli="38166000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038166XYZ000" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000" />
+ </Op><Op CEP="00000000" ClassOp="AA" Contrt="XYZ000" Cosif="1234567" DetCli="38166000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038166XYZ000" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000" />
+ </Op><Op CEP="00000000" ClassOp="AA" Contrt="XYZ000" Cosif="1234567" DetCli="38166000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038166XYZ000" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000" />
+ </Op><Op CEP="00000000" ClassOp="AA" Contrt="XYZ000" Cosif="1234567" DetCli="38166000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038166XYZ000" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000" />
+ </Op>
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ000" Cosif="1234567" DetCli="38166000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038166XYZ000" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000" />
+ </Op>
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ000" Cosif="1234567" DetCli="38166000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038166XYZ000" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000" />
+ </Op>
+ </Cli>
+<Cli Autorzc="S" Cd="00038167" ClassCli="AA" CongEcon="000000" IniRelactCli="2011-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ001" Cosif="1234567" DetCli="38167000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038167XYZ001" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000" />
+ </Op>
+</Cli>
+<Cli Autorzc="S" Cd="00038168" ClassCli="AA" CongEcon="000000" IniRelactCli="2012-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ002" Cosif="1234567" DetCli="38168000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038168XYZ002" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000" />
+ </Op>
+</Cli></Root>

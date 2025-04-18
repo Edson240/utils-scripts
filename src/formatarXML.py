@@ -1,8 +1,8 @@
 from bs4 import BeautifulSoup
 
 # Caminhos dos arquivos
-arquivo_entrada = "../data/cli_limitado.xml"
-arquivo_saida = "../data/cli_formatado.xml"
+arquivo_entrada = r'C:\Users\pedro\xml-utils\data\saida.xml'
+arquivo_saida = r'C:\Users\pedro\xml-utils\data\saidaFormatado.xml'
 
 # Lê o conteúdo dos <Cli>
 with open(arquivo_entrada, "r", encoding="utf-8") as f:
@@ -18,7 +18,7 @@ soup = BeautifulSoup(conteudo_completo, "xml")
 blocos_cli = soup.Clientes.find_all("Cli")
 
 # Gera a saída formatada apenas com os blocos <Cli> (sem <Clientes>)
-xml_formatado = "\n\n".join(bloco.prettify() for bloco in blocos_cli)
+xml_formatado = "".join(bloco.prettify() for bloco in blocos_cli)
 
 # Salva no novo arquivo
 with open(arquivo_saida, "w", encoding="utf-8") as f:
