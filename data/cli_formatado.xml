@@ -1,20 +1,100 @@
-<Cli Tp="2" Cd="00038166" Autorzc="S" PorteCli="1" TpCtrl="01" IniRelactCli="2010-01-01" CongEcon="000000" ClassCli="AA"><Op DetCli="38166000288" Contrt="XYZ000" NatuOp="01" Mod="0490" OrigemRec="0101" Indx="11" VarCamb="790" DtVencOp="2022-12-01" ClassOp="AA" CEP="00000000" TaxEft="11.32" DtContr="2010-01-01" ProvConsttd="1000" Cosif="1234567" VlrContr="250000" IPOC="123456780490200000038166XYZ000"><Venc v60="100000" v80="100000" v110="10000" v120="10000" v130="10000" v140="10000" v150="10000"/></Op></Cli>
-<Cli Tp="2" Cd="00038167" Autorzc="S" PorteCli="1" TpCtrl="01" IniRelactCli="2011-01-01" CongEcon="000000" ClassCli="AA"><Op DetCli="38167000288" Contrt="XYZ001" NatuOp="01" Mod="0490" OrigemRec="0101" Indx="11" VarCamb="790" DtVencOp="2022-12-01" ClassOp="AA" CEP="00000000" TaxEft="11.32" DtContr="2010-01-01" ProvConsttd="1000" Cosif="1234567" VlrContr="250000" IPOC="123456780490200000038167XYZ001"><Venc v60="100000" v80="100000" v110="10000" v120="10000" v130="10000" v140="10000" v150="10000"/></Op></Cli>
-<Cli Tp="2" Cd="00038168" Autorzc="S" PorteCli="1" TpCtrl="01" IniRelactCli="2012-01-01" CongEcon="000000" ClassCli="AA"><Op DetCli="38168000288" Contrt="XYZ002" NatuOp="01" Mod="0490" OrigemRec="0101" Indx="11" VarCamb="790" DtVencOp="2022-12-01" ClassOp="AA" CEP="00000000" TaxEft="11.32" DtContr="2010-01-01" ProvConsttd="1000" Cosif="1234567" VlrContr="250000" IPOC="123456780490200000038168XYZ002"><Venc v60="100000" v80="100000" v110="10000" v120="10000" v130="10000" v140="10000" v150="10000"/></Op></Cli>
-<Cli Tp="2" Cd="00038169" Autorzc="S" PorteCli="1" TpCtrl="01" IniRelactCli="2013-01-01" CongEcon="000000" ClassCli="AA"><Op DetCli="38169000288" Contrt="XYZ003" NatuOp="01" Mod="0490" OrigemRec="0101" Indx="11" VarCamb="790" DtVencOp="2022-12-01" ClassOp="AA" CEP="00000000" TaxEft="11.32" DtContr="2010-01-01" ProvConsttd="1000" Cosif="1234567" VlrContr="250000" IPOC="123456780490200000038169XYZ003"><Venc v60="100000" v80="100000" v110="10000" v120="10000" v130="10000" v140="10000" v150="10000"/></Op></Cli>
-<Cli Tp="2" Cd="00038170" Autorzc="S" PorteCli="1" TpCtrl="01" IniRelactCli="2014-01-01" CongEcon="000000" ClassCli="AA"><Op DetCli="38170000288" Contrt="XYZ004" NatuOp="01" Mod="0490" OrigemRec="0101" Indx="11" VarCamb="790" DtVencOp="2022-12-01" ClassOp="AA" CEP="00000000" TaxEft="11.32" DtContr="2010-01-01" ProvConsttd="1000" Cosif="1234567" VlrContr="250000" IPOC="123456780490200000038170XYZ004"><Venc v60="100000" v80="100000" v110="10000" v120="10000" v130="10000" v140="10000" v150="10000"/></Op></Cli>
-<Cli Tp="2" Cd="00038171" Autorzc="S" PorteCli="1" TpCtrl="01" IniRelactCli="2015-01-01" CongEcon="000000" ClassCli="AA"><Op DetCli="38171000288" Contrt="XYZ005" NatuOp="01" Mod="0490" OrigemRec="0101" Indx="11" VarCamb="790" DtVencOp="2022-12-01" ClassOp="AA" CEP="00000000" TaxEft="11.32" DtContr="2010-01-01" ProvConsttd="1000" Cosif="1234567" VlrContr="250000" IPOC="123456780490200000038171XYZ005"><Venc v60="100000" v80="100000" v110="10000" v120="10000" v130="10000" v140="10000" v150="10000"/></Op></Cli>
-<Cli Tp="2" Cd="00038172" Autorzc="S" PorteCli="1" TpCtrl="01" IniRelactCli="2016-01-01" CongEcon="000000" ClassCli="AA"><Op DetCli="38172000288" Contrt="XYZ006" NatuOp="01" Mod="0490" OrigemRec="0101" Indx="11" VarCamb="790" DtVencOp="2022-12-01" ClassOp="AA" CEP="00000000" TaxEft="11.32" DtContr="2010-01-01" ProvConsttd="1000" Cosif="1234567" VlrContr="250000" IPOC="123456780490200000038172XYZ006"><Venc v60="100000" v80="100000" v110="10000" v120="10000" v130="10000" v140="10000" v150="10000"/></Op></Cli>
-<Cli Tp="2" Cd="00038173" Autorzc="S" PorteCli="1" TpCtrl="01" IniRelactCli="2017-01-01" CongEcon="000000" ClassCli="AA"><Op DetCli="38173000288" Contrt="XYZ007" NatuOp="01" Mod="0490" OrigemRec="0101" Indx="11" VarCamb="790" DtVencOp="2022-12-01" ClassOp="AA" CEP="00000000" TaxEft="11.32" DtContr="2010-01-01" ProvConsttd="1000" Cosif="1234567" VlrContr="250000" IPOC="123456780490200000038173XYZ007"><Venc v60="100000" v80="100000" v110="10000" v120="10000" v130="10000" v140="10000" v150="10000"/></Op></Cli>
-<Cli Tp="2" Cd="00038174" Autorzc="S" PorteCli="1" TpCtrl="01" IniRelactCli="2018-01-01" CongEcon="000000" ClassCli="AA"><Op DetCli="38174000288" Contrt="XYZ008" NatuOp="01" Mod="0490" OrigemRec="0101" Indx="11" VarCamb="790" DtVencOp="2022-12-01" ClassOp="AA" CEP="00000000" TaxEft="11.32" DtContr="2010-01-01" ProvConsttd="1000" Cosif="1234567" VlrContr="250000" IPOC="123456780490200000038174XYZ008"><Venc v60="100000" v80="100000" v110="10000" v120="10000" v130="10000" v140="10000" v150="10000"/></Op></Cli>
-<Cli Tp="2" Cd="00038175" Autorzc="S" PorteCli="1" TpCtrl="01" IniRelactCli="2019-01-01" CongEcon="000000" ClassCli="AA"><Op DetCli="38175000288" Contrt="XYZ009" NatuOp="01" Mod="0490" OrigemRec="0101" Indx="11" VarCamb="790" DtVencOp="2022-12-01" ClassOp="AA" CEP="00000000" TaxEft="11.32" DtContr="2010-01-01" ProvConsttd="1000" Cosif="1234567" VlrContr="250000" IPOC="123456780490200000038175XYZ009"><Venc v60="100000" v80="100000" v110="10000" v120="10000" v130="10000" v140="10000" v150="10000"/></Op></Cli>
-<Cli Tp="2" Cd="00038176" Autorzc="S" PorteCli="1" TpCtrl="01" IniRelactCli="2010-01-01" CongEcon="000000" ClassCli="AA"><Op DetCli="38176000288" Contrt="XYZ010" NatuOp="01" Mod="0490" OrigemRec="0101" Indx="11" VarCamb="790" DtVencOp="2022-12-01" ClassOp="AA" CEP="00000000" TaxEft="11.32" DtContr="2010-01-01" ProvConsttd="1000" Cosif="1234567" VlrContr="250000" IPOC="123456780490200000038176XYZ010"><Venc v60="100000" v80="100000" v110="10000" v120="10000" v130="10000" v140="10000" v150="10000"/></Op></Cli>
-<Cli Tp="2" Cd="00038177" Autorzc="S" PorteCli="1" TpCtrl="01" IniRelactCli="2011-01-01" CongEcon="000000" ClassCli="AA"><Op DetCli="38177000288" Contrt="XYZ011" NatuOp="01" Mod="0490" OrigemRec="0101" Indx="11" VarCamb="790" DtVencOp="2022-12-01" ClassOp="AA" CEP="00000000" TaxEft="11.32" DtContr="2010-01-01" ProvConsttd="1000" Cosif="1234567" VlrContr="250000" IPOC="123456780490200000038177XYZ011"><Venc v60="100000" v80="100000" v110="10000" v120="10000" v130="10000" v140="10000" v150="10000"/></Op></Cli>
-<Cli Tp="2" Cd="00038178" Autorzc="S" PorteCli="1" TpCtrl="01" IniRelactCli="2012-01-01" CongEcon="000000" ClassCli="AA"><Op DetCli="38178000288" Contrt="XYZ012" NatuOp="01" Mod="0490" OrigemRec="0101" Indx="11" VarCamb="790" DtVencOp="2022-12-01" ClassOp="AA" CEP="00000000" TaxEft="11.32" DtContr="2010-01-01" ProvConsttd="1000" Cosif="1234567" VlrContr="250000" IPOC="123456780490200000038178XYZ012"><Venc v60="100000" v80="100000" v110="10000" v120="10000" v130="10000" v140="10000" v150="10000"/></Op></Cli>
-<Cli Tp="2" Cd="00038179" Autorzc="S" PorteCli="1" TpCtrl="01" IniRelactCli="2013-01-01" CongEcon="000000" ClassCli="AA"><Op DetCli="38179000288" Contrt="XYZ013" NatuOp="01" Mod="0490" OrigemRec="0101" Indx="11" VarCamb="790" DtVencOp="2022-12-01" ClassOp="AA" CEP="00000000" TaxEft="11.32" DtContr="2010-01-01" ProvConsttd="1000" Cosif="1234567" VlrContr="250000" IPOC="123456780490200000038179XYZ013"><Venc v60="100000" v80="100000" v110="10000" v120="10000" v130="10000" v140="10000" v150="10000"/></Op></Cli>
-<Cli Tp="2" Cd="00038180" Autorzc="S" PorteCli="1" TpCtrl="01" IniRelactCli="2014-01-01" CongEcon="000000" ClassCli="AA"><Op DetCli="38180000288" Contrt="XYZ014" NatuOp="01" Mod="0490" OrigemRec="0101" Indx="11" VarCamb="790" DtVencOp="2022-12-01" ClassOp="AA" CEP="00000000" TaxEft="11.32" DtContr="2010-01-01" ProvConsttd="1000" Cosif="1234567" VlrContr="250000" IPOC="123456780490200000038180XYZ014"><Venc v60="100000" v80="100000" v110="10000" v120="10000" v130="10000" v140="10000" v150="10000"/></Op></Cli>
-<Cli Tp="2" Cd="00038181" Autorzc="S" PorteCli="1" TpCtrl="01" IniRelactCli="2015-01-01" CongEcon="000000" ClassCli="AA"><Op DetCli="38181000288" Contrt="XYZ015" NatuOp="01" Mod="0490" OrigemRec="0101" Indx="11" VarCamb="790" DtVencOp="2022-12-01" ClassOp="AA" CEP="00000000" TaxEft="11.32" DtContr="2010-01-01" ProvConsttd="1000" Cosif="1234567" VlrContr="250000" IPOC="123456780490200000038181XYZ015"><Venc v60="100000" v80="100000" v110="10000" v120="10000" v130="10000" v140="10000" v150="10000"/></Op></Cli>
-<Cli Tp="2" Cd="00038182" Autorzc="S" PorteCli="1" TpCtrl="01" IniRelactCli="2016-01-01" CongEcon="000000" ClassCli="AA"><Op DetCli="38182000288" Contrt="XYZ016" NatuOp="01" Mod="0490" OrigemRec="0101" Indx="11" VarCamb="790" DtVencOp="2022-12-01" ClassOp="AA" CEP="00000000" TaxEft="11.32" DtContr="2010-01-01" ProvConsttd="1000" Cosif="1234567" VlrContr="250000" IPOC="123456780490200000038182XYZ016"><Venc v60="100000" v80="100000" v110="10000" v120="10000" v130="10000" v140="10000" v150="10000"/></Op></Cli>
-<Cli Tp="2" Cd="00038183" Autorzc="S" PorteCli="1" TpCtrl="01" IniRelactCli="2017-01-01" CongEcon="000000" ClassCli="AA"><Op DetCli="38183000288" Contrt="XYZ017" NatuOp="01" Mod="0490" OrigemRec="0101" Indx="11" VarCamb="790" DtVencOp="2022-12-01" ClassOp="AA" CEP="00000000" TaxEft="11.32" DtContr="2010-01-01" ProvConsttd="1000" Cosif="1234567" VlrContr="250000" IPOC="123456780490200000038183XYZ017"><Venc v60="100000" v80="100000" v110="10000" v120="10000" v130="10000" v140="10000" v150="10000"/></Op></Cli>
-<Cli Tp="2" Cd="00038184" Autorzc="S" PorteCli="1" TpCtrl="01" IniRelactCli="2018-01-01" CongEcon="000000" ClassCli="AA"><Op DetCli="38184000288" Contrt="XYZ018" NatuOp="01" Mod="0490" OrigemRec="0101" Indx="11" VarCamb="790" DtVencOp="2022-12-01" ClassOp="AA" CEP="00000000" TaxEft="11.32" DtContr="2010-01-01" ProvConsttd="1000" Cosif="1234567" VlrContr="250000" IPOC="123456780490200000038184XYZ018"><Venc v60="100000" v80="100000" v110="10000" v120="10000" v130="10000" v140="10000" v150="10000"/></Op></Cli>
-<Cli Tp="2" Cd="00038185" Autorzc="S" PorteCli="1" TpCtrl="01" IniRelactCli="2019-01-01" CongEcon="000000" ClassCli="AA"><Op DetCli="38185000288" Contrt="XYZ019" NatuOp="01" Mod="0490" OrigemRec="0101" Indx="11" VarCamb="790" DtVencOp="2022-12-01" ClassOp="AA" CEP="00000000" TaxEft="11.32" DtContr="2010-01-01" ProvConsttd="1000" Cosif="1234567" VlrContr="250000" IPOC="123456780490200000038185XYZ019"><Venc v60="100000" v80="100000" v110="10000" v120="10000" v130="10000" v140="10000" v150="10000"/></Op></Cli>
+<Cli Autorzc="S" Cd="00038166" ClassCli="AA" CongEcon="000000" IniRelactCli="2010-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ000" Cosif="1234567" DetCli="38166000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038166XYZ000" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000"/>
+ </Op>
+</Cli>
+<Cli Autorzc="S" Cd="00038167" ClassCli="AA" CongEcon="000000" IniRelactCli="2011-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ001" Cosif="1234567" DetCli="38167000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038167XYZ001" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000"/>
+ </Op>
+</Cli>
+<Cli Autorzc="S" Cd="00038168" ClassCli="AA" CongEcon="000000" IniRelactCli="2012-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ002" Cosif="1234567" DetCli="38168000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038168XYZ002" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000"/>
+ </Op>
+</Cli>
+<Cli Autorzc="S" Cd="00038169" ClassCli="AA" CongEcon="000000" IniRelactCli="2013-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ003" Cosif="1234567" DetCli="38169000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038169XYZ003" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000"/>
+ </Op>
+</Cli>
+<Cli Autorzc="S" Cd="00038170" ClassCli="AA" CongEcon="000000" IniRelactCli="2014-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ004" Cosif="1234567" DetCli="38170000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038170XYZ004" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000"/>
+ </Op>
+</Cli>
+<Cli Autorzc="S" Cd="00038171" ClassCli="AA" CongEcon="000000" IniRelactCli="2015-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ005" Cosif="1234567" DetCli="38171000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038171XYZ005" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000"/>
+ </Op>
+</Cli>
+<Cli Autorzc="S" Cd="00038172" ClassCli="AA" CongEcon="000000" IniRelactCli="2016-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ006" Cosif="1234567" DetCli="38172000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038172XYZ006" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000"/>
+ </Op>
+</Cli>
+<Cli Autorzc="S" Cd="00038173" ClassCli="AA" CongEcon="000000" IniRelactCli="2017-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ007" Cosif="1234567" DetCli="38173000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038173XYZ007" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000"/>
+ </Op>
+</Cli>
+<Cli Autorzc="S" Cd="00038174" ClassCli="AA" CongEcon="000000" IniRelactCli="2018-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ008" Cosif="1234567" DetCli="38174000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038174XYZ008" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000"/>
+ </Op>
+</Cli>
+<Cli Autorzc="S" Cd="00038175" ClassCli="AA" CongEcon="000000" IniRelactCli="2019-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ009" Cosif="1234567" DetCli="38175000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038175XYZ009" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000"/>
+ </Op>
+</Cli>
+<Cli Autorzc="S" Cd="00038176" ClassCli="AA" CongEcon="000000" IniRelactCli="2010-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ010" Cosif="1234567" DetCli="38176000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038176XYZ010" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000"/>
+ </Op>
+</Cli>
+<Cli Autorzc="S" Cd="00038177" ClassCli="AA" CongEcon="000000" IniRelactCli="2011-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ011" Cosif="1234567" DetCli="38177000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038177XYZ011" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000"/>
+ </Op>
+</Cli>
+<Cli Autorzc="S" Cd="00038178" ClassCli="AA" CongEcon="000000" IniRelactCli="2012-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ012" Cosif="1234567" DetCli="38178000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038178XYZ012" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000"/>
+ </Op>
+</Cli>
+<Cli Autorzc="S" Cd="00038179" ClassCli="AA" CongEcon="000000" IniRelactCli="2013-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ013" Cosif="1234567" DetCli="38179000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038179XYZ013" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000"/>
+ </Op>
+</Cli>
+<Cli Autorzc="S" Cd="00038180" ClassCli="AA" CongEcon="000000" IniRelactCli="2014-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ014" Cosif="1234567" DetCli="38180000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038180XYZ014" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000"/>
+ </Op>
+</Cli>
+<Cli Autorzc="S" Cd="00038181" ClassCli="AA" CongEcon="000000" IniRelactCli="2015-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ015" Cosif="1234567" DetCli="38181000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038181XYZ015" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000"/>
+ </Op>
+</Cli>
+<Cli Autorzc="S" Cd="00038182" ClassCli="AA" CongEcon="000000" IniRelactCli="2016-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ016" Cosif="1234567" DetCli="38182000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038182XYZ016" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000"/>
+ </Op>
+</Cli>
+<Cli Autorzc="S" Cd="00038183" ClassCli="AA" CongEcon="000000" IniRelactCli="2017-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ017" Cosif="1234567" DetCli="38183000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038183XYZ017" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000"/>
+ </Op>
+</Cli>
+<Cli Autorzc="S" Cd="00038184" ClassCli="AA" CongEcon="000000" IniRelactCli="2018-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ018" Cosif="1234567" DetCli="38184000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038184XYZ018" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000"/>
+ </Op>
+</Cli>
+<Cli Autorzc="S" Cd="00038185" ClassCli="AA" CongEcon="000000" IniRelactCli="2019-01-01" PorteCli="1" Tp="2" TpCtrl="01">
+ <Op CEP="00000000" ClassOp="AA" Contrt="XYZ019" Cosif="1234567" DetCli="38185000288" DtContr="2010-01-01" DtVencOp="2022-12-01" IPOC="123456780490200000038185XYZ019" Indx="11" Mod="0490" NatuOp="01" OrigemRec="0101" ProvConsttd="1000" TaxEft="11.32" VarCamb="790" VlrContr="250000">
+  <Venc v110="10000" v120="10000" v130="10000" v140="10000" v150="10000" v60="100000" v80="100000"/>
+ </Op>
+</Cli>
